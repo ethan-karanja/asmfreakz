@@ -1,2 +1,3 @@
 # asmfreakz
-Disassembler for ARM, MIPS, and x86
+Assembler for Windows and macOS..
+Can handle MIPS, ARM, x86, and Webassembly
